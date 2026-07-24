@@ -32,5 +32,5 @@ Because OpenStreetMap is continuously updated, historical data corresponding to 
 
 ## Methods
 
-**Bus accessibility**: Accessibility by bus was modelled using the [`r5py` package](https://r5py.readthedocs.io/stable/). The routing analysis combined walking and scheduled bus services and estimated the number of opportunities reachable within specified travel-time thresholds.
-**Accessibility inequality**: Transport inequality was assessed from a **horizontal-equity** perspective using population-weighted empirical cumulative distribution functions, Lorenz curves, Gini coefficients, and Theil T decomposition. Vertical equity was not assessed because reliable, fine-grained sociodemographic data were unavailable for the study area and year.
+_**Bus accessibility**_: Accessibility by bus was modelled using the [`r5py` package](https://r5py.readthedocs.io/stable/). The routing analysis combined walking and scheduled bus services and estimated the number of opportunities reachable within specified travel-time thresholds.
+_**Accessibility inequality**_: Transport inequality was assessed from a **horizontal-equity** perspective using population-weighted empirical cumulative distribution functions, Lorenz curves, Gini coefficients, and Theil T decomposition. Vertical equity was not assessed because reliable, fine-grained sociodemographic data were unavailable for the study area and year.
