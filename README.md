@@ -15,7 +15,7 @@ This study analyses bus-based accessibility to nine types of essential destinati
 </p>
 
 <p align="center">
-  <em>Figure. Relative bus accessibility to nine types of essential opportunities in Hanoi at the 30-minute travel-time threshold.</em>
+  <em>Figure. Relative bus accessibility to nine types of essential opportunities in Hanoi at the 60-minute travel-time threshold.</em>
 </p>
 
 ## Data
