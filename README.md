@@ -28,21 +28,7 @@ The study uses open-source datasets for the 2018 study year:
 - **Population:** Population data for 2018 were obtained from the [WorldPop Data Hub](https://hub.worldpop.org/).
 - **Administrative boundaries and road data:** Administrative boundary and road datasets were obtained from [Open Development Mekong](https://data.opendevelopmentmekong.net/dataset/a-gii-hnh-chnh-vit-nam).
 
-Because OpenStreetMap is continuously updated, historical data corresponding to the study year were used wherever possible. Some source datasets may need to be downloaded separately because of file-size limits, licensing conditions, or changes to external data services.
-
-## Software and Python packages
-
-The analysis was implemented in Python. Its principal packages include:
-
-- [`r5py`](https://r5py.readthedocs.io/stable/) for rapid realistic multimodal routing with R5;
-- [`ohsome`](https://github.com/GIScience/ohsome-py) for retrieving and analysing historical OpenStreetMap data through the ohsome API; and
-- standard Python geospatial and data-analysis libraries used in the accompanying scripts.
-
-The two principal packages can be installed with:
-
-```bash
-pip install r5py ohsome
-```
+Because OpenStreetMap is continuously updated, historical data corresponding to the study year were used wherever possible.
 
 ## Methods
 
