@@ -1,6 +1,6 @@
 # Uneven Bus-Based Accessibility to Essential Opportunities in Hanoi, Vietnam
 
-This repository contains the code required to reproduce the results and figures presented in the article **“Uneven Bus-Based Accessibility to Essential Opportunities in Hanoi, Vietnam”**, published in *Transport Findings*.
+This repository contains the scripts required to reproduce the results and figures presented in the article **“Uneven Bus-Based Accessibility to Essential Opportunities in Hanoi, Vietnam”**, published in *Transport Findings*.
 
 ## Summary
 
